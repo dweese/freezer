@@ -1,0 +1,19 @@
+{
+  "name": "freezer",
+  "version": "1.0.0",
+  "description": "Freezer web app ReactJS and NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dweese/freezer.git"
+  },
+  "author": "Dan Weese",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dweese/freezer/issues"
+  },
+  "homepage": "https://github.com/dweese/freezer#readme"
+}
