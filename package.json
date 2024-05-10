@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/dweese/freezer.git"
   },
-  "author": "Dan Weese",
+  "author": "Daniel Weese",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/dweese/freezer/issues"
